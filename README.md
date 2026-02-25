@@ -26,3 +26,15 @@ Frontend: React.js, HTML, CSS, JavaScript
 Backend: Django, Django REST Framework
 Database: SQLite (default)
 API: RESTful APIs
+
+# 📝 How It Works
+
+User accesses the React frontend.
+
+Frontend sends API requests to Django backend.
+
+Backend processes requests and interacts with the database.
+
+Data is returned via REST APIs and displayed on the UI.
+
+Users can browse and book travel packages seamlessly.
